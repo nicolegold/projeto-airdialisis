@@ -7,6 +7,6 @@ Repositório de arquivos referentes ao Hachathon Nasa Space Apps COVID-19 Challe
 * [Logo do projeto](https://github.com/nicolegold/airdialisis/blob/master/AIRDIALISIS.png) 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nicolegold/airdialisis/master/AIRDIALISIS.png" >
+  <img src="https://hackathonbrasil.com.br/home/wp-content/uploads/2020/05/Circular-Full-Color-Black-on-Transparent300dpi-300x300.png" >
 </p>
 
